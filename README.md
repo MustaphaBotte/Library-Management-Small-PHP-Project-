@@ -24,9 +24,6 @@ This project allows managing **appointments**, **books**, and **admins** in a li
 
 ## 📂 Project Structure  
 
-## 📂 Project Structure  
-
-```bash
 LIBRARY (MINI PHP PROJECT)
 │── ConfigurationDb/
 │   └── database.php
@@ -66,8 +63,6 @@ LIBRARY (MINI PHP PROJECT)
 │   └── Users.html
 ...
 └── index.php
-
-
 
 ## ⚙️ Installation
 
