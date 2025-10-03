@@ -59,8 +59,6 @@ The project is built using a classic LAMP/XAMPP stack setup:
 * **Security:** **PDO (PHP Data Objects)** for secure, parameterized database connections.
 * **Frontend:** **HTML5** & **CSS3**
 
----
-
 ## 📂 Project Structure
 
 The project follows a modified MVC structure for clear separation of concerns:
