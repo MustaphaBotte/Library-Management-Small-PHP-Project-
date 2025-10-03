@@ -24,45 +24,46 @@ This project allows managing **appointments**, **books**, and **admins** in a li
 
 ## 📂 Project Structure  
 
-LIBRARY (MINI PHP PROJECT)
-│── ConfigurationDb/
-│   └── database.php
+LIBRARY-MINI-PHP-PROJECT/
 │
-│── Controller/
-│   ├── Admin_Controller.php
-│   ├── Appointments_Controller.php
-│   ├── Books_Controller.php
-│   └── LogOut.php
+├── 📁 ConfigurationDb/
+│ └── database.php
 │
-│── Model/
-│   ├── Admins_Model.php
-│   ├── Appointments_Model.php
-│   ├── AuthorModel.php
-│   ├── Books_Model.php
-│   ├── BooksCopies_Model.php
-│   ├── CategoriesModel.php
-│   ├── Countries_Model.php
-│   └── Users_Model.php
+├── 📁 Controller/
+│ ├── Admin_Controller.php
+│ ├── Appointments_Controller.php
+│ ├── Books_Controller.php
+│ └── LogOut.php
 │
-│── SQL/
-│   ├── CREATE_TABLES.sql
-│   ├── DATA.sql
-│   ├── select.sql
-│   ├── SET_RULES.sql
-│   ├── DB_Diagram.jpg
+├── 📁 Model/
+│ ├── Admins_Model.php
+│ ├── Appointments_Model.php
+│ ├── AuthorModel.php
+│ ├── Books_Model.php
+│ ├── BooksCopies_Model.php
+│ ├── CategoriesModel.php
+│ ├── Countries_Model.php
+│ └── Users_Model.php
 │
-│── View/
-│   ├── Appointments/
-│   ├── Authors.html
-│   ├── Books.php
-│   ├── BooksCopies.html
-│   ├── Categories.html
-│   ├── Dashboard.php
-│   ├── Login.php
-│   ├── ManageAdmins.php
-│   └── Users.html
-...
-└── index.php
+├── 📁 SQL/
+│ ├── CREATE_TABLES.sql
+│ ├── DATA.sql
+│ ├── select.sql
+│ ├── SET_RULES.sql
+│ └── DB_Diagram.jpg
+│
+├── 📁 View/
+│ ├── Appointments/
+│ ├── Authors.html
+│ ├── Books.php
+│ ├── BooksCopies.html
+│ ├── Categories.html
+│ ├── Dashboard.php
+│ ├── Login.php
+│ ├── ManageAdmins.php
+│ └── Users.html
+│
+└── 🏠 index.php
 
 ## ⚙️ Installation
 
