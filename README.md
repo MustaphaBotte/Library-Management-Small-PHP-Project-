@@ -30,8 +30,8 @@ The project is built using a classic LAMP/XAMPP stack setup:
 While the full file structure isn't listed here, the project generally follows this organization:
 
 * **`ConfigurationDb/`**: Database connection settings.
-* **`Controller/`**: Handles business logic and processing requests.
-* **`Model/`**: Handles all database interactions and data validation.
+* **`Controller/`**: Handles and processing requests.
+* **`Model/`**: Handles all database interactions and business domain.
 * **`View/`**: Handles the presentation layer (HTML/CSS).
 * **`SQL/`**: Contains database creation and data scripts.
 * **`index.php`**: The main application entry point.
@@ -44,14 +44,14 @@ Follow these steps to get the project running on your local machine:
 
 1.  **Clone the Repository.**
 2.  **Server Setup:** Place the project folder inside your local web server's root directory (e.g., **`htdocs`** for XAMPP or **`www`** for WAMP).
-3.  **Import the Database:**
+3.  **Setup the Database:**
     * Go to **phpMyAdmin** or your MySQL CLI.
-    * **Create a database.**
-    * Import the SQL files provided in the `SQL/` directory (start with `CREATE_TABLES.sql`).
+    * **Create a database (use the files in the SQL folder).**
 4.  **Configure Connection:**
     * Open **`ConfigurationDb/database.php`**.
-    * Update your database credentials (username, password, database name) to match your local server information.
+    * Update your database credentials (username, password) to match your local server information.
 5.  **Access the Application:** Open your web browser and navigate to the project's root URL (e.g., `http://localhost/`). The **`index.php`** file will handle the initial process.
+6.  **Default Login (admin,admin).
 
 ---
 
