@@ -66,15 +66,15 @@ LIBRARY (MINI PHP PROJECT)
 
 ## ⚙️ Installation
 
-**Clone the repository**
-**Import the database**
+**Clone the repository.**
+**Import the database.**
 **Go to phpMyAdmin or MySQL CLI.**
 **Create a database (the sql files are included in the project).**
-**Configure the database connection**
+**Configure the database connection.**
 **Open ConfigurationDb/database.php.**
-**Update your database credentials as your database info**
+**Update your database credentials as your database info.**
 **Place the project inside the htdocs folder (XAMPP) or www folder (WAMP).**
-**Access it via: [Localhost](http://localhost/) -- and press enter the index file will handle the process**
+**Access it via: [Localhost](http://localhost/) -- and press enter the index file will handle the process.**
 
 ## 👨‍💻 Usage
 
