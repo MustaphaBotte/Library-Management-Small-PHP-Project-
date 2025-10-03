@@ -66,46 +66,34 @@ LIBRARY (MINI PHP PROJECT)
 
 ## ⚙️ Installation
 
-Clone the repository
-
-Import the database
-
-Go to phpMyAdmin or MySQL CLI.
-
-Create a database (the sql files are included in the project).
-
-Configure the database connection
-
-Open ConfigurationDb/database.php.
-
-Update your database credentials as your database info
-
-Run the project
-
-Place the project inside the htdocs folder (XAMPP) or www folder (WAMP).
-
-Access it via:
-
-http://localhost/ -- and press enter the index file will handle the process
+**Clone the repository**
+**Import the database**
+**Go to phpMyAdmin or MySQL CLI.**
+**Create a database (the sql files are included in the project).**
+**Configure the database connection**
+**Open ConfigurationDb/database.php.**
+**Update your database credentials as your database info**
+**Place the project inside the htdocs folder (XAMPP) or www folder (WAMP).**
+**Access it via: [Localhost](http://localhost/) -- and press enter the index file will handle the process**
 
 ## 👨‍💻 Usage
 
-Admins can log in and manage books, users, and appointments.
+**Admins can log in and manage books, users, and appointments.**
 
-Appointments can be scheduled, updated, or canceled.
+**Appointments can be scheduled, updated, or canceled.**
 
-Books can be added, edited, or removed.
+**Books can be added, edited, or removed.**
 
 ## 🔒 Security :
 
- PDO with prepared statements to prevent SQL injection.
- Password hashing.
- sessions and permissions management.
+** PDO with prepared statements to prevent SQL injection.**
+**Password hashing.**
+** sessions and permissions management.**
 
 
 ## 🤝 Contributing
 
-Contributions are welcome!
+**Contributions are welcome!**
 
 ## 📜 License
 feel free to use, modify, and distribute it.
