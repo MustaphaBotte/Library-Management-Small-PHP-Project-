@@ -23,6 +23,7 @@ This project allows managing **appointments**, **books**, and **admins** in a li
 ---
 
 ## 📂 Project Structure  
+```markdown
 
 ```bash
 LIBRARY (MINI PHP PROJECT)
