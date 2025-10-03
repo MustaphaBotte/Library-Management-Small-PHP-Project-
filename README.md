@@ -23,7 +23,8 @@ This project allows managing **appointments**, **books**, and **admins** in a li
 ---
 
 ## 📂 Project Structure  
-```markdown
+
+## 📂 Project Structure  
 
 ```bash
 LIBRARY (MINI PHP PROJECT)
@@ -63,8 +64,10 @@ LIBRARY (MINI PHP PROJECT)
 │   ├── Login.php
 │   ├── ManageAdmins.php
 │   └── Users.html
-│
+...
 └── index.php
+
+
 
 ## ⚙️ Installation
 
